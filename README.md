@@ -1,4 +1,4 @@
-# EMN-PEAD README
+# EMN-PEAD
 
 This is a public repository which accompanies the paper titled "EMN PEAD Multi-signal Strategy Research  with RNN Optimization Algorithm".
 
