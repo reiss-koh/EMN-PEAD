@@ -1,6 +1,6 @@
 # EMN-PEAD
 
-This is a public repository which accompanies the paper titled "EMN PEAD Multi-signal Strategy Research  with RNN Optimization Algorithm".
+This is a public repository which accompanies the paper titled "Market-neutral PEAD Multi-signal Strategy with AI Optimization".
 
 This repository was made for the purpose of verifying the algorithms, data sourcing, processing, and analytics involved in the research process.
 
