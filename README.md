@@ -7,5 +7,3 @@ This repository was made for the purpose of verifying the algorithms, data sourc
 The paper was co-authored by Woosung (Reiss) Koh and Yuntae Jang.
 
 The paper was written for the 12th DB Financial Economics Research Competition. 
-
-PDF password: abc123
